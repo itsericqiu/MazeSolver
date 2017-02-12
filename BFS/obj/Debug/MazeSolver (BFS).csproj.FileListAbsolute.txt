@@ -1,0 +1,6 @@
+V:\DFS\DFS\bin\Debug\DFS.exe.config
+V:\DFS\DFS\bin\Debug\DFS.exe
+V:\DFS\DFS\bin\Debug\DFS.pdb
+V:\DFS\DFS\obj\Debug\DFS.exe
+V:\DFS\DFS\obj\Debug\DFS.pdb
+V:\DFS\DFS\obj\Debug\MazeSolver (BFS).csprojResolveAssemblyReference.cache
